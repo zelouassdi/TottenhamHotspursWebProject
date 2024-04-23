@@ -1,0 +1,15 @@
+Pour ce projet, les spring dependencies sont : Spring web, Spring data JPA et MySQL Driver
+JPA ns permet de mapper nos classes modèles dans une base de données
+
+
+Faut chercher pourquoi la classe du model implments Serializable
+
+To create my Angular apps, I should always use : ng new SpursEmploymentManagement --no-standalone  --skip-tests=true
+
+--no-standalone : allows me to include app.module.ts in my project
+
+Après avoir configuré le Backend, le premier est reflexe à avoir est la création su service sur Angular qui va communiquer avec le back
+
+Le service contient toutes les méthodes : post, put et delete pour communiquer avec le back.
+
+Avant de lancer l'appli back/front
